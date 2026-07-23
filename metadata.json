@@ -1,0 +1,6 @@
+{
+  "name": "Android AI Voice Assistant",
+  "description": "An Android AI Assistant app featuring voice input, voice output, and natural conversational responses powered by Gemini.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
